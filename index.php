@@ -97,7 +97,7 @@ $result_recent = $conn->query($sql_recent);
                         <a class="nav-link active" aria-current="page" href="#">Dashboard</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Shipping Shipments</a>
+                        <a class="nav-link" href="#">Shipments</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Vehicles</a>
